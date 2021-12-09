@@ -34,4 +34,4 @@ services:
       MYSQL_ROOT_PASSWORD: Rut123
 volumes:
     mysql:
-    driver: "local"
+      driver: "local"
